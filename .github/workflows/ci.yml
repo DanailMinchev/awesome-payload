@@ -1,0 +1,43 @@
+name: CI
+
+on:
+  workflow_dispatch:
+    inputs:
+      git-ref:
+        description: Git Ref (Optional)
+        required: false
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build-and-test:
+    name: Build and Test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (Latest)
+        if: github.event.inputs.git-ref == ''
+        uses: actions/checkout@v4.2.2
+        with:
+          fetch-depth: 0
+      - name: Checkout (Custom Ref)
+        if: github.event.inputs.git-ref != ''
+        uses: actions/checkout@v4.2.2
+        with:
+          ref: ${{ github.event.inputs.git-ref }}
+          fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v4.1.0
+        with:
+          node-version-file: ".node-version"
+      - name: Install Dependencies
+        run: npm ci
+      - name: Format
+        run: npm run format:ci
+      - name: Lint
+        run: npm run lint

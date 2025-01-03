@@ -1,0 +1,40 @@
+{
+  "name": "awesome-payload",
+  "private": true,
+  "version": "0.0.0-development",
+  "description": "A curated list of awesome Payload resources for users and developers.",
+  "license": "CC0-1.0",
+  "author": "Danail Minchev <danail.minchev@gmail.com>",
+  "scripts": {
+    "prepare": "npx husky",
+    "test": "npm run lint",
+    "format": "npx prettier --write --ignore-unknown \"**/*.{js,jsx,ts,tsx,json,yml,yaml,md,mdx}\"",
+    "format:ci": "npx prettier --check --ignore-unknown \"**/*.{js,jsx,ts,tsx,json,yml,yaml,md,mdx}\"",
+    "lint": "npx awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "1.2.0",
+    "husky": "9.1.7",
+    "lint-staged": "15.3.0",
+    "prettier": "3.4.2"
+  },
+  "lint-staged": {
+    "**/*.{js,jsx,ts,tsx,json,yml,yaml,md,mdx}": "prettier --write --ignore-unknown"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "payload",
+    "payload cms",
+    "payloadcms",
+    "payload cms resources"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanailMinchev/awesome-payload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DanailMinchev/awesome-payload/issues"
+  },
+  "homepage": "https://github.com/DanailMinchev/awesome-payload#readme"
+}
