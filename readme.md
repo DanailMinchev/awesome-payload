@@ -46,6 +46,7 @@ Learning resources in various formats.
 
 List of interesting community plugins.
 
+- [r1tsuu / payload-enchants](https://github.com/r1tsuu/payload-enchants) - Payload enchantment packages.
 - [ashbuilds / payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload,
   integrating advanced AI capabilities to enhance content creation and management.
 
