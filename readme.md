@@ -2,7 +2,7 @@
 
 > A curated list of awesome Payload resources for users and developers.
 
-[<img src="./media/payload-logo-dark.svg" alt="Payload" width="300" />](https://github.com/DanailMinchev/awesome-payload)
+[<img src="./media/payload-logo-dark.svg" alt="Payload" width="300" align="right" />](https://payloadcms.com/)
 
 <p>
 Built with TypeScript and React, Payload is an open-source headless CMS and application framework. Build anything.<br />
@@ -22,11 +22,10 @@ Payload is Next.js native. Payload is built on Next.js, ensuring less hassle, mo
 
 Official resources.
 
-- [Payload: The Next.js Headless CMS and App Framework](https://payloadcms.com/) - Official website.
 - [Blog](https://payloadcms.com/blog) - Official blog.
 - [GitHub](https://github.com/payloadcms/payload) - Official GitHub.
 - [YouTube](https://www.youtube.com/@payloadcms) - Official YouTube.
-- [Discord](https://discord.com/invite/r6sCXqVk3v) - Official Discord.
+- [Discord](https://discord.gg/payload) - Official Discord.
 - [X (Twitter)](https://twitter.com/payloadcms) - Official X account.
 
 ## Education
@@ -36,11 +35,19 @@ Learning resources in various formats.
 ### YouTube channels
 
 - [AllAboutPayload](https://www.youtube.com/@AllAboutPayload) - Tutorials, tips and tricks.
+- [AaronSaundersCI](https://www.youtube.com/@AaronSaundersCI) - Payload videos related to integrations and custom
+  components.
+- [Funkyton](https://www.youtube.com/@funkyton) - Payload content for beginners. Related technologies.
+- [Sam Thoyre](https://www.youtube.com/@SamThoyre) - Full courses related to Payload.
+- [NLV Codes](https://www.youtube.com/@nlv_codes) - Channel dedicated to Payload, starting with beginner lessons.
 
 ### Examples
 
 - [Payload website](https://github.com/payloadcms/website) - This is the repository for Payload's official website. It was built completely in public using Payload itself.
 - [Official examples](https://github.com/payloadcms/payload/tree/main/examples) - Examples from the official repository.
+- [DanailMinchev / payload-clerk-example](https://github.com/DanailMinchev/payload-clerk-example) - Payload and Clerk
+  example.
+  - [Payload and Clerk example](https://www.youtube.com/watch?v=7PNGNqqFlu0) - YouTube video.
 
 ## Plugins
 
