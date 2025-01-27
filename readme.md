@@ -15,15 +15,17 @@ Payload is Next.js native. Payload is built on Next.js, ensuring less hassle, mo
 
 - [Official](#official)
 - [Education](#education)
+- [Templates](#templates)
 - [Plugins](#plugins)
+- [Miscellaneous](#miscellaneous)
 - [Contribute](#contribute)
 
 ## Official
 
 Official resources.
 
-- [Blog](https://payloadcms.com/blog) - Official blog.
 - [GitHub](https://github.com/payloadcms/payload) - Official GitHub.
+- [Blog](https://payloadcms.com/blog) - Official blog.
 - [YouTube](https://www.youtube.com/@payloadcms) - Official YouTube.
 - [Discord](https://discord.gg/payload) - Official Discord.
 - [X (Twitter)](https://twitter.com/payloadcms) - Official X account.
@@ -43,11 +45,18 @@ Learning resources in various formats.
 
 ### Examples
 
-- [Payload website](https://github.com/payloadcms/website) - This is the repository for Payload's official website. It was built completely in public using Payload itself.
 - [Official examples](https://github.com/payloadcms/payload/tree/main/examples) - Examples from the official repository.
+- [Payload website](https://github.com/payloadcms/website) - This is the repository for Payload's official website. It was built completely in public using Payload itself.
 - [DanailMinchev / payload-clerk-example](https://github.com/DanailMinchev/payload-clerk-example) - Payload and Clerk
   example.
   - [Payload and Clerk example](https://www.youtube.com/watch?v=7PNGNqqFlu0) - YouTube video.
+
+## Templates
+
+Begin your next project by starting with a pre-made template. These are production-ready, end-to-end solutions.
+
+- [Official templates](https://github.com/payloadcms/payload/tree/main/templates) - Templates from the official
+  repository.
 
 ## Plugins
 
@@ -56,6 +65,12 @@ List of interesting community plugins.
 - [r1tsuu / payload-enchants](https://github.com/r1tsuu/payload-enchants) - Payload enchantment packages.
 - [ashbuilds / payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload,
   integrating advanced AI capabilities to enhance content creation and management.
+
+## Miscellaneous
+
+Other resources.
+
+- [withPayload](https://withpayload.com/) - Discover starter kits and plugins and other useful stuff.
 
 ## Contribute
 
