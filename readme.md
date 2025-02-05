@@ -9,8 +9,6 @@ Payload is a free and open-source headless CMS aimed sharply at providing the be
 Payload is Next.js native.
 </p>
 
-<p>Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read the <a href="https://github.com/DanailMinchev/awesome-payload/blob/main/contributing.md">contribution guidelines</a> first.</p>
-
 ## Contents
 
 - [Official](#official)
