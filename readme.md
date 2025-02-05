@@ -18,7 +18,6 @@ Payload is Next.js native. Payload is built on Next.js, ensuring less hassle, mo
 - [Templates](#templates)
 - [Plugins](#plugins)
 - [Miscellaneous](#miscellaneous)
-- [Contribute](#contribute)
 
 ## Official
 
@@ -75,6 +74,6 @@ Other resources.
 
 - [withPayload](https://withpayload.com/) - Discover starter kits and plugins and other useful stuff.
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
