@@ -5,8 +5,8 @@
 [<img src="./media/payload-logo-dark.svg" alt="Payload" width="300" align="right" />](https://payloadcms.com/)
 
 <p>
-Built with TypeScript and React, Payload is an open-source headless CMS and application framework. Build anything.<br />
-Payload is Next.js native. Payload is built on Next.js, ensuring less hassle, more speed, and enhancing your projects from the ground up.
+Payload is a free and open-source headless CMS aimed sharply at providing the best, developer-first experience possible to build out APIs and admin UI.<br />
+Payload is Next.js native.
 </p>
 
 <p>Contributions welcome. Add links through pull requests or create an issue to start a discussion. Please read the <a href="https://github.com/DanailMinchev/awesome-payload/blob/main/contributing.md">contribution guidelines</a> first.</p>
