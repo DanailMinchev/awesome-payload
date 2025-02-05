@@ -37,7 +37,7 @@ Learning resources in various formats.
 ### YouTube channels
 
 - [AllAboutPayload](https://www.youtube.com/@AllAboutPayload) - Tutorials, tips and tricks.
-- [AaronSaundersCI](https://www.youtube.com/@AaronSaundersCI) - Payload videos related to integrations and custom
+- [Aaron Saunders](https://www.youtube.com/@AaronSaundersCI) - Payload videos related to integrations and custom
   components.
 - [Funkyton](https://www.youtube.com/@funkyton) - Payload content for beginners. Related technologies.
 - [Sam Thoyre](https://www.youtube.com/@SamThoyre) - Full courses related to Payload.
@@ -63,6 +63,9 @@ Begin your next project by starting with a pre-made template. These are producti
 List of interesting community plugins.
 
 - [r1tsuu / payload-enchants](https://github.com/r1tsuu/payload-enchants) - Payload enchantment packages.
+- [sourabpramanik / payload-auth-plugin](https://github.com/sourabpramanik/payload-auth-plugin) - Authentication plugin
+  for Payload.
+- [CrawlerCode / payload-authjs](https://github.com/CrawlerCode/payload-authjs) - A Payload plugin for Auth.js.
 - [ashbuilds / payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload,
   integrating advanced AI capabilities to enhance content creation and management.
 
