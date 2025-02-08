@@ -5,8 +5,8 @@
 [<img src="./media/payload-logo-dark.svg" alt="Payload" width="300" align="right" />](https://payloadcms.com/)
 
 <p>
-Payload is a free and open-source headless CMS aimed sharply at providing the best, developer-first experience possible to build out APIs and admin UI.<br />
-Payload is Next.js native.
+Payload is a free and open-source fullstack Next.js framework and headless CMS aimed sharply at providing the best, developer-first experience possible to build out APIs and admin UI.<br />
+Payload is Next.js native which is installed directly into your Next.js app.
 </p>
 
 ## Contents
@@ -21,11 +21,11 @@ Payload is Next.js native.
 
 Official resources.
 
-- [GitHub](https://github.com/payloadcms/payload) - Official GitHub.
-- [Blog](https://payloadcms.com/blog) - Official blog.
-- [YouTube](https://www.youtube.com/@payloadcms) - Official YouTube.
-- [Discord](https://discord.gg/payload) - Official Discord.
-- [X (Twitter)](https://twitter.com/payloadcms) - Official X account.
+- [GitHub](https://github.com/payloadcms/payload) - Official GitHub repository of Payload fullstack Next.js framework.
+- [Blog](https://payloadcms.com/blog) - Official blog. Announcements and high quality articles.
+- [YouTube](https://www.youtube.com/@payloadcms) - Official YouTube. Learning materials.
+- [Discord](https://discord.gg/payload) - Official Discord. Community chat and support.
+- [X (Twitter)](https://twitter.com/payloadcms) - Official X account. Payload news and announcements.
 
 ## Education
 
@@ -33,17 +33,17 @@ Learning resources in various formats.
 
 ### YouTube channels
 
-- [AllAboutPayload](https://www.youtube.com/@AllAboutPayload) - Tutorials, tips and tricks.
 - [Aaron Saunders](https://www.youtube.com/@AaronSaundersCI) - Payload videos related to integrations and custom
   components.
-- [Funkyton](https://www.youtube.com/@funkyton) - Payload content for beginners. Related technologies.
-- [Sam Thoyre](https://www.youtube.com/@SamThoyre) - Full courses related to Payload.
+- [AllAboutPayload](https://www.youtube.com/@AllAboutPayload) - Tutorials, tips and tricks.
 - [NLV Codes](https://www.youtube.com/@nlv_codes) - Channel dedicated to Payload, starting with beginner lessons.
+- [Sam Thoyre](https://www.youtube.com/@SamThoyre) - Full courses related to Payload.
 
 ### Examples
 
 - [Official examples](https://github.com/payloadcms/payload/tree/main/examples) - Examples from the official repository.
-- [Payload website](https://github.com/payloadcms/website) - This is the repository for Payload's official website. It was built completely in public using Payload itself.
+- [Payload website](https://github.com/payloadcms/website) - This is the repository for Payload's official website. It
+  was built completely in public using Payload itself.
 - [DanailMinchev / payload-clerk-example](https://github.com/DanailMinchev/payload-clerk-example) - Payload and Clerk
   example.
   - [Payload and Clerk example](https://www.youtube.com/watch?v=7PNGNqqFlu0) - YouTube video.
