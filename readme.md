@@ -6,7 +6,7 @@
 
 <p>
 Payload is a free and open-source fullstack Next.js framework and headless CMS aimed sharply at providing the best, developer-first experience possible to build out APIs and admin UI.<br />
-Payload is Next.js native which is installed directly into your Next.js app.
+Payload is natively integrated with Next.js and is installed directly into your Next.js app.
 </p>
 
 ## Contents
@@ -23,7 +23,7 @@ Official resources.
 
 - [GitHub](https://github.com/payloadcms/payload) - Official GitHub repository of Payload fullstack Next.js framework.
 - [Blog](https://payloadcms.com/blog) - Official blog. Announcements and high quality articles.
-- [YouTube](https://www.youtube.com/@payloadcms) - Official YouTube. Learning materials.
+- [YouTube](https://www.youtube.com/@payloadcms) - Official YouTube channel with learning materials.
 - [Discord](https://discord.gg/payload) - Official Discord. Community chat and support.
 - [X (Twitter)](https://twitter.com/payloadcms) - Official X account. Payload news and announcements.
 
@@ -59,7 +59,8 @@ Begin your next project by starting with a pre-made template. These are producti
 
 List of interesting community plugins.
 
-- [r1tsuu / payload-enchants](https://github.com/r1tsuu/payload-enchants) - Payload enchantment packages.
+- [r1tsuu / payload-enchants](https://github.com/r1tsuu/payload-enchants) - A collection of enhancement packages for
+  Payload.
 - [sourabpramanik / payload-auth-plugin](https://github.com/sourabpramanik/payload-auth-plugin) - Authentication plugin
   for Payload.
 - [CrawlerCode / payload-authjs](https://github.com/CrawlerCode/payload-authjs) - A Payload plugin for Auth.js.
