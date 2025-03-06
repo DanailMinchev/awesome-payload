@@ -46,7 +46,8 @@ Learning resources in various formats.
   was built completely in public using Payload itself.
 - [DanailMinchev / payload-clerk-example](https://github.com/DanailMinchev/payload-clerk-example) - Payload and Clerk
   example.
-  - [Payload and Clerk example](https://www.youtube.com/watch?v=7PNGNqqFlu0) - YouTube video.
+  - [Payload and Clerk example](https://www.youtube.com/watch?v=7PNGNqqFlu0) - Part 1.
+  - [Payload and Clerk - advanced integration](https://www.youtube.com/watch?v=egKaeOuddFA) - Part 2.
 
 ## Templates
 
@@ -64,14 +65,14 @@ List of interesting community plugins.
 - [sourabpramanik / payload-auth-plugin](https://github.com/sourabpramanik/payload-auth-plugin) - Authentication plugin
   for Payload.
 - [CrawlerCode / payload-authjs](https://github.com/CrawlerCode/payload-authjs) - A Payload plugin for Auth.js.
-- [ashbuilds / payload-ai](https://github.com/ashbuilds/payload-ai) - AI Plugin is a powerful extension for the Payload,
-  integrating advanced AI capabilities to enhance content creation and management.
+- [ashbuilds / payload-ai](https://github.com/ashbuilds/payload-ai) - Payload AI Plugin is a powerful extension for the
+  Payload, integrating advanced AI capabilities to enhance content creation and management.
 
 ## Miscellaneous
 
 Other resources.
 
-- [withPayload](https://withpayload.com/) - Discover starter kits and plugins and other useful stuff.
+- [withPayload](https://withpayload.com/) - Discover starter kits, plugins, and other useful resources.
 
 ## Contributing
 
