@@ -63,6 +63,7 @@ Learning resources in various formats.
 Begin your next project by starting with a pre-made template. These are production-ready, end-to-end solutions.
 
 - [Official templates](https://github.com/payloadcms/payload/tree/main/templates) - Templates from the official repository.
+- [ShopNex](https://github.com/shopnex-ai/shopnex) - An open-source Shopify alternative built with Payload.
 
 ## Plugins
 
