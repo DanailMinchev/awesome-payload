@@ -70,7 +70,8 @@ Begin your next project by starting with a pre-made template. These are producti
 List of interesting community plugins.
 
 - [r1tsuu / payload-enchants](https://github.com/r1tsuu/payload-enchants) - A collection of enhancement packages for Payload.
-- [authsmith / payload-auth-plugin](https://github.com/authsmith/payload-auth-plugin) - This plugin extends the Payload authentication process and implements OAuth and Passkey based authentication features.
+- [authsmith / payload-auth-plugin](https://github.com/authsmith/payload-auth-plugin) - This plugin extends the Payload authentication process and implements OAuth- and Passkey-based authentication features.
+- [payload-auth / payload-auth](https://github.com/payload-auth/payload-auth) - A monorepo for integrating Payload with various authentication providers.
 - [CrawlerCode / payload-authjs](https://github.com/CrawlerCode/payload-authjs) - A Payload plugin for Auth.js.
 - [ashbuilds / payload-ai](https://github.com/ashbuilds/payload-ai) - The Payload AI Plugin is a powerful extension, integrating advanced AI capabilities to enhance content creation and management.
 - [elliott-w / imageAspectRatios.ts](https://gist.github.com/elliott-w/19676d9373d79ee20b9195601dc45808) - Payload image aspect ratios plugin.
