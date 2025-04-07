@@ -2,10 +2,10 @@
 
 > A curated list of awesome Payload resources for users and developers.
 
-[<img src="./media/payload-logo-dark.svg" alt="Payload" width="300" align="right" />](https://payloadcms.com/)
+[<img src="./media/payload-logo.jpg" alt="Payload" width="300" align="right" />](https://payloadcms.com/)
 
 <p>
-Payload is a free and open-source full-stack Next.js framework and headless CMS aimed sharply at providing the best, developer-first experience possible to build out APIs and admin UI.<br />
+<a href="https://payloadcms.com/">Payload</a> is a free and open-source full-stack Next.js framework and headless CMS aimed sharply at providing the best, developer-first experience possible to build out APIs and admin UI.<br />
 Payload is natively integrated with Next.js and is installed directly into your Next.js app.
 </p>
 
