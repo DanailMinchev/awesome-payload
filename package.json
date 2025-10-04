@@ -10,7 +10,8 @@
     "test": "npm run lint",
     "format": "npx prettier --write --ignore-unknown \"**/*.{js,jsx,ts,tsx,json,yml,yaml,md,mdx}\"",
     "format:ci": "npx prettier --check --ignore-unknown \"**/*.{js,jsx,ts,tsx,json,yml,yaml,md,mdx}\"",
-    "lint": "npx awesome-lint"
+    "lint": "npx awesome-lint",
+    "update": "npx npm-check-updates -u"
   },
   "devDependencies": {
     "awesome-lint": "1.2.0",
