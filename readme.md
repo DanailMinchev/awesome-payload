@@ -15,6 +15,7 @@ Payload is natively integrated with Next.js and is installed directly into your 
 - [Education](#education)
 - [Templates](#templates)
 - [Plugins](#plugins)
+- [Tools](#tools)
 
 ## Official
 
@@ -81,6 +82,12 @@ List of interesting community plugins.
 - [rilrom / payload-bites](https://github.com/rilrom/payload-bites) - Collection of various bite-sized Payload v3 plugins including image-search, fullscreen-editor, audit-fields, soft-delete and activity-log.
 - [shefing / payload-tools](https://github.com/shefing/payload-tools) - Contains a set of powerful plugins designed to enhance your Payload projects (Authorization, Authors Info, Rich-text Comments, Right Panel, Custom Version View, Cross-Collection Config, Field-type Component Override, Color Picker Field, Icon Select, Quick Filter, Reset List View, etc).
 - [Crayonan / payload-plugin-ai-localization](https://github.com/Crayonan/payload-plugin-ai-localization) - Adds an AI-powered "Translate" button to non-primary localized fields in Payload. Automatically translates content from the primary language using OpenAI or other models.
+
+## Tools
+
+Standalone tools and utilities for working with Payload.
+
+- [Perufitlife / payload-security](https://github.com/Perufitlife/payload-security) - CLI auditor that probes a Payload instance for collections readable without auth, field-level leaks (apiKey/email/hash), user enumeration, open first-user registration and GraphQL introspection.
 
 ## Contributing
 
