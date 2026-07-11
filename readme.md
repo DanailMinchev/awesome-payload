@@ -81,6 +81,7 @@ List of interesting community plugins.
 - [rilrom / payload-bites](https://github.com/rilrom/payload-bites) - Collection of various bite-sized Payload v3 plugins including image-search, fullscreen-editor, audit-fields, soft-delete and activity-log.
 - [shefing / payload-tools](https://github.com/shefing/payload-tools) - Contains a set of powerful plugins designed to enhance your Payload projects (Authorization, Authors Info, Rich-text Comments, Right Panel, Custom Version View, Cross-Collection Config, Field-type Component Override, Color Picker Field, Icon Select, Quick Filter, Reset List View, etc).
 - [Crayonan / payload-plugin-ai-localization](https://github.com/Crayonan/payload-plugin-ai-localization) - Adds an AI-powered "Translate" button to non-primary localized fields in Payload. Automatically translates content from the primary language using OpenAI or other models.
+- [relative23 / payload-live-preview](https://github.com/relative23/payload-live-preview) - Astro-first live preview for Payload: patches the DOM in the admin iframe as you edit, for any SSR or static frontend (Astro, SvelteKit, Nuxt, Next.js, plain HTML).
 
 ## Contributing
 
