@@ -13,6 +13,7 @@ Payload is natively integrated with Next.js and is installed directly into your 
 
 - [Official](#official)
 - [Education](#education)
+- [Components](#components)
 - [Templates](#templates)
 - [Plugins](#plugins)
 
@@ -60,6 +61,12 @@ Learning resources in various formats.
 - [Payload: 2FA Implementation](https://zarif.dev/blogs/payload-cms-2fa-implementation) - Two-factor authentication (2FA) for Payload.
 - [Creating a Color Picker](https://medium.com/@mleg1234/creating-a-color-picker-for-payload-cmss-rich-text-editor-lexical-a2ec3528669c) - How to create a custom color picker for Payload's rich-text editor (Lexical).
 
+## Components
+
+Reusable component and block resources for Payload projects.
+
+- [Payload Components](https://github.com/Ducksss/payload-components) - MIT registry and CLI for installing wired Payload CMS blocks into Payload v3 and Next.js projects.
+
 ## Templates
 
 Begin your next project by starting with a pre-made template. These are production-ready, end-to-end solutions.
@@ -82,6 +89,7 @@ List of interesting community plugins.
 - [shefing / payload-tools](https://github.com/shefing/payload-tools) - Contains a set of powerful plugins designed to enhance your Payload projects (Authorization, Authors Info, Rich-text Comments, Right Panel, Custom Version View, Cross-Collection Config, Field-type Component Override, Color Picker Field, Icon Select, Quick Filter, Reset List View, etc).
 - [Crayonan / payload-plugin-ai-localization](https://github.com/Crayonan/payload-plugin-ai-localization) - Adds an AI-powered "Translate" button to non-primary localized fields in Payload. Automatically translates content from the primary language using OpenAI or other models.
 - [s1awek / payload-ecommerce-tpay](https://github.com/s1awek/payload-ecommerce-tpay) - Tpay payment adapter for the official ecommerce plugin: BLIK, bank transfers and cards for shops selling to Polish customers.
+- [relative23 / payload-live-preview](https://github.com/relative23/payload-live-preview) - Astro-first live preview for Payload: patches the DOM in the admin iframe as you edit, for any SSR or static frontend (Astro, SvelteKit, Nuxt, Next.js, plain HTML).
 
 ## Contributing
 
