@@ -50,6 +50,7 @@ Learning resources in various formats.
 - [DanailMinchev / payload-clerk-example](https://github.com/DanailMinchev/payload-clerk-example) - Payload and Clerk example.
   - [Payload and Clerk example](https://www.youtube.com/watch?v=7PNGNqqFlu0) - Part 1. Role-based access control and custom components.
   - [Payload and Clerk advanced integration](https://www.youtube.com/watch?v=egKaeOuddFA) - Part 2. Advanced integration with Clerk webhooks and custom components tested with Playwright.
+- [apoi15 / payload-blog-publish-skill](https://github.com/apoi15/payload-blog-publish-skill) - AI agent skill and scripts that publish multilingual Markdown articles into Payload 3 Lexical rich text, with dry runs and a production database guard.
 
 ### Blogs
 
