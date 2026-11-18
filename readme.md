@@ -90,6 +90,7 @@ List of interesting community plugins.
 - [Crayonan / payload-plugin-ai-localization](https://github.com/Crayonan/payload-plugin-ai-localization) - Adds an AI-powered "Translate" button to non-primary localized fields in Payload. Automatically translates content from the primary language using OpenAI or other models.
 - [s1awek / payload-ecommerce-tpay](https://github.com/s1awek/payload-ecommerce-tpay) - Tpay payment adapter for the official ecommerce plugin: BLIK, bank transfers and cards for shops selling to Polish customers.
 - [relative23 / payload-live-preview](https://github.com/relative23/payload-live-preview) - Astro-first live preview for Payload: patches the DOM in the admin iframe as you edit, for any SSR or static frontend (Astro, SvelteKit, Nuxt, Next.js, plain HTML).
+- [vocalstack / payload-plugin](https://github.com/vocalstack/payload-plugin) - Adds a Transcribe button to audio uploads and saves the transcript on the document as text and timed sentences, using the paid VocalStack speech-to-text service.
 
 ## Contributing
 
